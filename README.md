@@ -46,7 +46,7 @@ I build production-grade AI systems — not just demos. Currently working at **D
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [LyricGen](https://github.com/AmitSaraswat119/lyrics-generator) | Deep learning song lyrics generation on 55k+ Spotify songs | Python, LSTM, NLP, Flask |
-| [Emotions Classification](https://github.com/AmitSaraswat119/emotions-classification) | ML model to classify emotions in text data | Python, NLP, Jupyter |
+| [Emotions Classification](https://github.com/AmitSaraswat119/emotions-classification) | ML model to classify emotions in text — useful for sentiment analysis & social media monitoring | Python, NLP, Flask, scikit-learn |
 | [Hair Fall Prediction](https://github.com/AmitSaraswat119/hair-fall-prediction) | Prediction model with EDA on lifestyle & environmental factors | Python, ML, EDA |
 | [Book Recommender](https://github.com/AmitSaraswat119/book-recommendation) | Content-based book recommendation web app | Python, Flask, HTML |
 
