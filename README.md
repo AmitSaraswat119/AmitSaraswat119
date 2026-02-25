@@ -45,6 +45,7 @@ I build production-grade AI systems — not just demos. Currently working at **D
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [MCP Multi-Agent](https://github.com/AmitSaraswat119/mcp-multi-agent) | Agentic system with 3 live MCP servers — GitHub, Web Search & File System chained autonomously by a LangGraph agent | Python, MCP SDK, LangGraph, OpenAI, FastAPI, React |
 | [RAG From Scratch](https://github.com/AmitSaraswat119/rag_from_scratch) | Production-style RAG pipeline — no LangChain. Manual chunking, embeddings, reranking, GPT-4o with source citations | Python, FastAPI, OpenAI, Zilliz, React |
 | [LyricGen](https://github.com/AmitSaraswat119/lyrics-generator) | Deep learning song lyrics generation on 55k+ Spotify songs | Python, LSTM, NLP, Flask |
 | [Emotions Classification](https://github.com/AmitSaraswat119/emotions-classification) | ML model to classify emotions in text — sentiment analysis & social monitoring | Python, NLP, Flask, scikit-learn |
